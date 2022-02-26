@@ -9,5 +9,5 @@ cd src
 Install the node_modules directory from the command-line:
 npm install
 
-To run the game call from the command-line:
+Run the game from the command-line:
 npm start

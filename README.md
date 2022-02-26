@@ -6,7 +6,7 @@ cd my-app
 From the my-app folder, nagivate to the src folder:
 cd src
 
-Install the node_modules directory from the command line:
+Install the node_modules directory from the command-line:
 npm install
 
 To run the game call from the command-line:

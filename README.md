@@ -6,5 +6,5 @@ my-app
 From the my-app folder, nagivate to the src file:
 cd src
 
-To run the game, call:
+To run the game call from the command-line:
 npm start
